@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Varmand</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repassword">Re-Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="register">Create an account</string>
+    <string name="age">Age</string>
+    <string name="forget">Forgot password?</string>
+    <string name="orsigninwith">or sign in with</string>
+    <string name="orsignupwith">or sign up with</string>
+    <string name="already">Already have an account </string>
+    <string name="Lumbini">Lumbini Province</string>
+    <string name="Lumbini1">Lumbini is a village, archaeological site, and place of pilgrimage honored as the birthplace of Siddhartha Gautama (the Buddha, l. c. 563-483 BCE) located in modern-day Rupandehi District of Nepal, Province 5, near the Indian border. It was first formally identified as the Buddha\'s birthsite in 249 BCE by the Mauryan king Ashoka the Great (r. 268-232 BCE).</string>
+    <string name="Lumbini2">Prior to Ashoka\'s visit, the village was known by another name, perhaps similar but now lost, and was already an important pilgrimage site for adherents of the early Buddhist schools. It seems to originally have been a landscaped pleasure garden located between the cities of Kapilavastu, to the east, and Devadaha, to the southwest, ruled, respectively, by the clans of the Shakya and Koliya, who were related by blood. Suddhodana, of the Shakya, married his cousin Maya, of the Koliya, who would become the mother of the Buddha.</string>
+<string name="lum2">According to the accounts in Buddhist and Jaina texts, Maya was traveling from Kapilavastu to her home city of Devadaha to give birth when she stopped to rest in the gardens of Lumbini and went into labor. She gave birth to her son beneath a Sala tree and, according to some versions of the story, bathed him in a nearby pond. She seems to have then returned to Kapilavastu where she died seven days later.</string>
+    <string name="lum1">Her son would later renounce his heritage to follow a path of spiritual asceticism, eventually attaining enlightenment and becoming the Buddha (“awakened one”), founder of Buddhism. He taught others his vision for the next 45 years, and after his death, his disciples continued his teachings through the establishment of various schools of thought and honored the sites associated with Buddha\'s life by designating them sacred places of pilgrimage and erecting stupas containing his relics.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
